@@ -3,6 +3,7 @@
 > Status do projeto: Em desenvolvimento 
 
 para Rodar esse projeto por favor digite:
+
 ```
-"npm install react"
+node app.js
 ```
